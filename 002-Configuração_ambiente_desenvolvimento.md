@@ -23,3 +23,5 @@ Vamos instalar uma extensão que aplica um suporte mais completo ao nosso códig
 Alternativamente, podemos clicar na aba de extensões do VSCode e pesquisar por **Python** e instalar a extensão que aparecer com o  mesmo nome.
 
 Vamos instalar também a extensão [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring "Extensão Auto Docstring"), que vai nos auxiliar a gerar a documentação do código.
+
+**[Voltar para o índice](README.md)**

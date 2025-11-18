@@ -17,3 +17,5 @@ Por versátil e ter uma comunidade muito grande e muito ativa, o Python recebe v
 Além disso, a curva de aprendizado do Python é baixa, o que tem atraído cada vez mais desenvolvedores para a linguagem.
 
 Desta forma, podemos utilizar o Python para praticamente qualquer tipo de aplicação. A sua maior limitação seria para *apps mobile*, onde encontramos alternativas que serão mais eficientes.
+
+**[Voltar para o índice](README.md)**

@@ -24,3 +24,5 @@ print("Hello, World!")
 Simples assim! Agora, no canto superior direito do VSCode temos uma *setinha* que serve para rodar o código, e vamos ver ele funcionando no terminal e nos dando o olá.
 
 **Parabéns!** Já criamos nosso primeiro código em Python.
+
+**[Voltar para o índice](README.md)**
