@@ -8,6 +8,13 @@ Decidi tornar esse projeto público para que outras pessoas participando de inic
 
 ## Índice
 
-1. [Introdução ao Python](001-Introducao_ao_python.md)
-2. [Configuração de Ambiente de Desenvolvimento](002-Configuração_ambiente_desenvolvimento.md)
-3. [Primeiro Programa](003-Primeiro_programa.md)
+* Introdução
+
+    1. [Introdução ao Python](001-Introducao_ao_python.md)
+    2. [Configuração de Ambiente de Desenvolvimento](002-Configuração_ambiente_desenvolvimento.md)
+    3. [Primeiro Programa](003-Primeiro_programa.md)
+
+* Conheçendo a Linguagem
+
+    1. [Tipos de Dados](101-Tipos_de_dados.md)
+    2. [Modo Interativo](102-Modo_interativo.md)
