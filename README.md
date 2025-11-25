@@ -32,6 +32,8 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   
   - 🔢 [Tipos de Dados](101-Tipos_de_dados.md)
   - 🗣️ [Modo Interativo](102-Modo_interativo.md)
+  - 📝 [Variáveis e Constantes](103-Variáveis-e-constantes.md)
+  - 🔃 [Conversão de Tipos](104-Conversão_de_tipos.md)
 
 </details>
 
