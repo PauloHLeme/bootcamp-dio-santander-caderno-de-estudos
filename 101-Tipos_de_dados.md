@@ -66,8 +66,8 @@ Os mais utilizados no dia a dia são:
 
 ### Vale dizer
 
-    O Python tem um gerenciamento inteligente dos dados e variáveis. Dessa forma, se escrevermos `"Olá, Mundo"`, o interpretador já vai saber que se trata de uma variável do tipo _string_, pois está entre aspas.
+O Python tem um gerenciamento inteligente dos dados e variáveis. Dessa forma, se escrevermos `"Olá, Mundo"`, o interpretador já vai saber que se trata de uma variável do tipo _string_, pois está entre aspas.
 
-    Da mesma forma, se digitarmos `10`,`10.1` ou `True`, o código vai automaticamente atribuir o tipo como `int`, `float` ou `bool`, respectivamente.
+Da mesma forma, se digitarmos `10`,`10.1` ou `True`, o código vai automaticamente atribuir o tipo como `int`, `float` ou `bool`, respectivamente.
 
 **[Voltar para o índice](README.md)**
