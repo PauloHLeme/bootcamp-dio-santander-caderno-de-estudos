@@ -34,6 +34,15 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   - 🗣️ [Modo Interativo](102-Modo_interativo.md)
   - 📝 [Variáveis e Constantes](103-Variáveis-e-constantes.md)
   - 🔃 [Conversão de Tipos](104-Conversão_de_tipos.md)
+  - 🔛 [Funções de Entrada e Saída](105-Funções_de_entrada_e_saida.md)
+
+</details>
+
+<details>
+  <summary><strong>Módulo 3: Versionamento d Código com Git e GitHub</strong></summary>
+
+  - 📑 [Versionamento de Código](201-Versionamento_com_git_github.md)
+  - ⚙️ [Instalando e Configurando Git](202-Instalando_e_configurando_git.md)
 
 </details>
 
