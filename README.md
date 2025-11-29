@@ -30,20 +30,20 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 <details>
   <summary><strong>Módulo 2: Conhecendo a Linguagem</strong></summary>
   
-  - 🔢 [Tipos de Dados](101-Tipos_de_dados.md)
-  - 🗣️ [Modo Interativo](102-Modo_interativo.md)
-  - 📝 [Variáveis e Constantes](103-Variáveis-e-constantes.md)
-  - 🔃 [Conversão de Tipos](104-Conversão_de_tipos.md)
-  - 🔛 [Funções de Entrada e Saída](105-Funções_de_entrada_e_saida.md)
+  - 🔢 [Tipos de Dados](101_tipos_de_dados.md)
+  - 🗣️ [Modo Interativo](102_modo_interativo.md)
+  - 📝 [Variáveis e Constantes](103_variaveis-e-constantes.md)
+  - 🔃 [Conversão de Tipos](104_conversao_de_tipos.md)
+  - 🔛 [Funções de Entrada e Saída](105_funcoes_de_entrada_e_saida.md)
 
 </details>
 
 <details>
-  <summary><strong>Módulo 3: Versionamento d Código com Git e GitHub</strong></summary>
+  <summary><strong>Módulo 3: Versionamento de Código com Git e GitHub</strong></summary>
 
-  - 📑 [Versionamento de Código](201-Versionamento_com_git_github.md)
-  - ⚙️ [Instalando e Configurando Git](202-Instalando_e_configurando_git.md)
-  - 👟 [Primeiros Passos com Git e GitHub](203-Primeiros_passos_git_github.md)
+  - 📑 [Versionamento de Código](201_versionamento_com_git_github.md)
+  - ⚙️ [Instalando e Configurando Git](202_instalando_e_configurando_git.md)
+  - 👟 [Primeiros Passos com Git e GitHub](203_primeiros_passos_git_github.md)
 
 </details>
 
