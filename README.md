@@ -43,6 +43,7 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 
   - 📑 [Versionamento de Código](201-Versionamento_com_git_github.md)
   - ⚙️ [Instalando e Configurando Git](202-Instalando_e_configurando_git.md)
+  - 👟 [Primeiros Passos com Git e GitHub](203-Primeiros_passos_git_github.md)
 
 </details>
 
