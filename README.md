@@ -47,6 +47,14 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 
 </details>
 
+<details>
+  <summary><strong>Módulo 4: Python para Análise de Dados</strong></summary>
+
+  - 🧮 [Tipos de Operadores com Python](301_tipos_operadores_python.md)
+  
+
+</details>
+
 ---
 
 ## ✨ Como Contribuir
