@@ -21,37 +21,37 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 <details>
   <summary><strong>Módulo 1: Introdução ao Python</strong></summary>
   
-  - 🐍 [Introdução ao Python](001-Introducao_ao_python.md)
-  - 💻 [Configuração de Ambiente de Desenvolvimento](002-Configuração_ambiente_desenvolvimento.md)
-  - 👋 [Primeiro Programa](003-Primeiro_programa.md)
+  - 🐍 [Introdução ao Python](paginas/001_introducao_ao_python.md)
+  - 💻 [Configuração de Ambiente de Desenvolvimento](paginas/002_configuracao_ambiente_desenvolvimento.md)
+  - 👋 [Primeiro Programa](paginas/003_primeiro_programa.md)
 
 </details>
 
 <details>
   <summary><strong>Módulo 2: Conhecendo a Linguagem</strong></summary>
   
-  - 🔢 [Tipos de Dados](101_tipos_de_dados.md)
-  - 🗣️ [Modo Interativo](102_modo_interativo.md)
-  - 📝 [Variáveis e Constantes](103_variaveis-e-constantes.md)
-  - 🔃 [Conversão de Tipos](104_conversao_de_tipos.md)
-  - 🔛 [Funções de Entrada e Saída](105_funcoes_de_entrada_e_saida.md)
+  - 🔢 [Tipos de Dados](paginas/101_tipos_de_dados.md)
+  - 🗣️ [Modo Interativo](paginas/102_modo_interativo.md)
+  - 📝 [Variáveis e Constantes](paginas/103_variaveis_e_constantes.md)
+  - 🔃 [Conversão de Tipos](paginas/104_conversao_de_tipos.md)
+  - 🔛 [Funções de Entrada e Saída](paginas/105_funcoes_de_entrada_e_saida.md)
 
 </details>
 
 <details>
   <summary><strong>Módulo 3: Versionamento de Código com Git e GitHub</strong></summary>
 
-  - 📑 [Versionamento de Código](201_versionamento_com_git_github.md)
-  - ⚙️ [Instalando e Configurando Git](202_instalando_e_configurando_git.md)
-  - 👟 [Primeiros Passos com Git e GitHub](203_primeiros_passos_git_github.md)
+  - 📑 [Versionamento de Código](paginas/201_versionamento_com_git_github.md)
+  - ⚙️ [Instalando e Configurando Git](paginas/202_instalando_e_configurando_git.md)
+  - 👟 [Primeiros Passos com Git e GitHub](paginas/203_primeiros_passos_git_github.md)
 
 </details>
 
 <details>
   <summary><strong>Módulo 4: Python para Análise de Dados</strong></summary>
 
-  - 🧮 [Tipos de Operadores com Python](301_tipos_operadores_python.md)
-  
+  - 🧮 [Tipos de Operadores com Python](paginas/301_tipos_operadores_python.md)
+  - 🔂 [Estruturas Condicionais e Repetição](paginas/302_estruturas_condicionais_e_repeticao_python.md)
 
 </details>
 
