@@ -52,6 +52,8 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 
   - 🧮 [Tipos de Operadores com Python](paginas/301_tipos_operadores_python.md)
   - 🔂 [Estruturas Condicionais e Repetição](paginas/302_estruturas_condicionais_e_repeticao_python.md)
+  - 🔡 [Manipulando Strings com Python](paginas/303_manipulando_strings_python.md)
+
 
 </details>
 
