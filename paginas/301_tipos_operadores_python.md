@@ -61,7 +61,8 @@ São utilizados para atribuirmos um valor inicial a uma variável ou sobrescreve
 * **Atribuição** `=`: Atribui um valor a uma variável.
 
 * **Atribuição com Adição** `+=`: Soma um valor a uma variável existente. É uma forma reduzida de sobrescrever um valor com uma soma:
-    ```
+
+    ```python
     # Ao invés de escrevermos
     saldo = saldo + 200
         

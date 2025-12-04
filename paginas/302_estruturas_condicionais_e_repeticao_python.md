@@ -52,7 +52,7 @@ Podemos tambem ter opções de `if` dentro de outros `if`, criando condições i
 
 Neste caso, o código se resume a
 
-```
+```python
 "execute isso" if esta condição == verdadeira else "execute este outro"
 ```
 
