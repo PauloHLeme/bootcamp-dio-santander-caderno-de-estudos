@@ -2,9 +2,10 @@
   <h1>🚀 Bootcamp Santander 2025 - Ciência de Dados com Python</h1>
   <p>Um caderno de estudos pessoal sobre a jornada no bootcamp de Ciência de Dados da DIO em parceria com o Santander.</p>
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/ "Site do Python")
+  [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/ "Guia de Markdown")
+  [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/ "Site do Visual Studio Code")
+
 
 </div>
 
@@ -53,6 +54,18 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   - 🧮 [Tipos de Operadores com Python](paginas/301_tipos_operadores_python.md)
   - 🔂 [Estruturas Condicionais e Repetição](paginas/302_estruturas_condicionais_e_repeticao_python.md)
   - 🔡 [Manipulando Strings com Python](paginas/303_manipulando_strings_python.md)
+
+  - 📋 [Trabalhando com Listas](paginas/304_trabalhando_com_listas.md)
+
+  - 📃 [Tuplas](paginas/305_tuplas.md)
+
+  - 👥 [Conjuntos](paginas/306_conjuntos.md)
+
+  - 📚 [Dicionários](paginas/307_dicionarios.md)
+
+  - 🛠️ [Funções](paginas/308_funcoes.md)
+
+
 
 
 </details>
