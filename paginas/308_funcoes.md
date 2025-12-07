@@ -100,5 +100,60 @@ Dessa forma, quando os valores forem passados sem uma chave, eles serão recebid
 
 [Aqui está](/exercícios/funcoes/funcoes_args_kwargs.py "Args e Kwargs") um exercício para ajudar a fixar a ideia, que pode ser um pouco confusa, em um primeiro momento.
 
+## Parâmetros Especiais
+
+Podemos forçar uma função a receber apenas parâmetros posicionais, nominais ou até mesmo um misto de ambas, mas de acordo com o que desejarmos para cada argumento.
+
+Quando desejarmos que os argumentos sejam enviados apenas por posição, vamos passá-los e colocarmos uma barra`/` **após** eles.
+
+```python
+def criar_carro(modelo, ano, placa, /, marca, motor, combustivel):
+    
+    print(modelo, ano, placa, marca, motor, combustivel)
+```
+
+Neste caso, estamos forçando que o modelo, o ano e a placa sejam passados **apenas** por posição, e os demais estejam livres.
+
+Quando desejamos que o envio seja feita **apenas** por argumentos nomeados, nós colocamos o asterísco `*` **antes** dos argumentos.
+
+```python
+def criar_carro(modelo, ano, placa, *, marca, motor, combustivel):
+    
+    print(modelo, ano, placa, marca, motor, combustivel)
+```
+
+Desta forma, todos os elementos que estão após o asterisco são obrigatoriamente declarados como nomeados, e os três anteriores ficam livres.
+
+Podermos ainda fazer um misto destes dois métodos, forçando parte de forma posicional e parte de forma nomeada.
+
+```python
+def criar_carro(modelo, ano, placa, /, marca, *, motor, combustivel):
+    
+    print(modelo, ano, placa, marca, motor, combustivel)
+```
+
+No caso acima, temos os três primeiros sendo obrigatoriamente posicionais, a marca sendo totalmente opcional e os dois últimos sendo obrigatoriamente nomeados.
+
+## Objetos de Primeira Classe
+
+Como em Python tudo é objeto, as funções também são objetos.
+
+Alguns objetos são dados como Objetos de Primeira Classe. Estes objetos são extremamente versáteis, **_pois podem atribuir funções a variáveis_**, **_podem ser parâmetros de funções_**, **_podem ser usadas como valores em estruturas como listas, dicionarios e tuplas_**, e ainda **_podem ser um valor de retorno de uma função_**.
+
+Em Python, as funções podem exercer qualquer uma dessas tarefas, o que as torna extremamente úteis.
+
+[Aqui estão](/exercícios/funcoes/funcoes_como_argumentos.py "Funções como argumentos") alguns exemplos de seus usos.
+
+## Escopo local e global
+
+Escopo é a área de serviço, de atuação de uma variável ou de um bloco de código.
+
+Tudo o que está dentro de uma função é **Local**, e assim que a função acabar, suas variáveis vão morrer e deixar de existir.
+
+Temos uma palavra reservada de nome `global` que serve justamente para deixar a variável disponível depois da execução, elevando-a para o escopo global.
+
+### _Boas Práticas_
+
+> Utilize a variável `global` com cuidado, pois não é uma boa prática ser utilizada, uma vez que prejudica a manutenção do código.
 
 **[Voltar para o índice](README.md)**
