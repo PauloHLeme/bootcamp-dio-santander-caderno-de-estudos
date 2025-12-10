@@ -75,6 +75,12 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 
   - 🛠️ [Funções](paginas/308_funcoes.md)
 
+</details>
+
+<details>
+  <summary><strong>Módulo 5: Bancos de dados Relacionais com SQL</strong></summary>
+
+  - 🎲 [Conceitos Básicos de Banco de Dados Relacionais](paginas/401_conceitos_basicos_estrutura_banco_dados_relacional.md)
 
 
 
