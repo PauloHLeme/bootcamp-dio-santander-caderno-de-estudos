@@ -81,10 +81,16 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   <summary><strong>Módulo 5: Bancos de dados Relacionais com SQL</strong></summary>
 
   - 🎲 [Conceitos Básicos de Banco de Dados Relacionais](paginas/401_conceitos_basicos_estrutura_banco_dados_relacional.md)
-
-
+  - 🖼️ [Modelagem de Dados Relacionais](paginas/402_modelagem_dados_relacionais.md)
+  - 📦 [Normalização de Dados](paginas/403_normalizacao_dados.md)
+  - 🔍 [Consultas com Junções e Subconsultas](/paginas/404_consultas_juncoes_subconsultas.md)
 
 </details>
+
+<details>
+  <summary><strong>Módulo 6: Bancos de dados Não Relacionais com MongoDB</strong></summary>
+
+  - 🪑 [Introdução aos Bancos de Dados Não Relacionais](paginas/501_introducao_bancos_dados_nao_relacionais.md)
 
 ---
 
