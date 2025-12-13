@@ -156,4 +156,4 @@ Temos uma palavra reservada de nome `global` que serve justamente para deixar a 
 
 > Utilize a variável `global` com cuidado, pois não é uma boa prática ser utilizada, uma vez que prejudica a manutenção do código.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

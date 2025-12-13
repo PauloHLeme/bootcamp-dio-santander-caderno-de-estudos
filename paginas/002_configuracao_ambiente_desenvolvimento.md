@@ -24,4 +24,4 @@ Alternativamente, podemos clicar na aba de extensões do VSCode e pesquisar por 
 
 Vamos instalar também a extensão [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring "Extensão Auto Docstring"), que vai nos auxiliar a gerar a documentação do código.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

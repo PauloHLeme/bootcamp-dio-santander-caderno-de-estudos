@@ -202,4 +202,4 @@ Podemos inserir algumas restrições nas chaves estrangeiras que nos permitem de
     * `RESTRICT`: Não permite que o registro pai seja alterado ou excluído se houver registros filhos
     
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

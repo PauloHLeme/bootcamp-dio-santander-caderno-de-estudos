@@ -104,4 +104,4 @@ CREATE INDEX nome_do_indice
 ON tabela1(coluna1, coluna2))
 ```
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

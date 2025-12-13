@@ -227,4 +227,4 @@ Neste caso, o git vai deixar marcado os dois casos no arquivo, e caberá a nós 
 
     * `git stash apply`: aplica a última modificação arquivada
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

@@ -116,4 +116,4 @@ Dessa forma, podemos criar um loop infinito, que só vai parar de ser executado 
 
 [Este exercício](/exercícios/estruturas_condicionais_repeticao/repeticao_while_break_continue.py "Exemplo de break") exemplifica o uso dos comandos `break` e `continue`.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

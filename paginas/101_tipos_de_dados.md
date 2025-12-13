@@ -70,4 +70,4 @@ O Python tem um gerenciamento inteligente dos dados e variáveis. Dessa forma, s
 
 Da mesma forma, se digitarmos `10`,`10.1` ou `True`, o código vai automaticamente atribuir o tipo como `int`, `float` ou `bool`, respectivamente.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

@@ -1,0 +1,23 @@
+{
+   "_id":1,
+   "nome":"Paulo Leme",
+   "idade":30,
+   "data_nascimento":"1992-12-10",
+   "enderecos":[
+      {
+         "logradouro":"Av 42",
+         "numero":"548",
+         "bairro":"Vila Jocosa",
+         "cidade":"Rio Claro",
+         "estado":"SP"
+      }
+   ],
+   "reservas":[
+      {
+         "data":"2026-10-25",
+         "status":"pendente",
+         "_COMMENT": "GRAFIA CORRETA DO ELEMENTO ABAIXO É ObjectId(aspas123aspas)",
+         "destino": "ObjectId()" 
+      }
+   ]
+}

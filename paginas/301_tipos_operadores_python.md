@@ -103,4 +103,4 @@ Servem para verificar se o valor desejado está dentro de uma lista, seja um obj
 
 * **Associação Inversa** `not in`: Verifica se um valor não está dentro de uma lista
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

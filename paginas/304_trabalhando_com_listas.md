@@ -101,4 +101,4 @@ Da mesma forma, [podemos fazer a alterações](/exercícios/listas/modificacao_l
 
 * `sorted()`: Retorna uma nova lista ordenada, sem alterar a original. Também pode usar `key` e `reverse`.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

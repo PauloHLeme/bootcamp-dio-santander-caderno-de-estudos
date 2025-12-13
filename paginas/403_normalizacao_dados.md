@@ -24,4 +24,4 @@ Formas normais são regras criadas para que os dados sejam incluídos nos bancos
 
     Além da FN2, nenhuma coluna não chave deve depender de outra coluna não chave.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

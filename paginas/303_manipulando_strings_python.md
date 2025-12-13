@@ -104,4 +104,4 @@ Olá, me chamo {nome}, tenho
 
 No caso das strings de múltiplas linhas, o output respeita as quebras de linhas e recuos. Tenha isso em mente na hora de escrevê-las.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

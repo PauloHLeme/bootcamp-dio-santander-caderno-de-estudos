@@ -37,4 +37,4 @@ Ao rodarmos o código acima, teremos como saída:
 >>> Paulo#Leme
 ```
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

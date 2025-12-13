@@ -124,4 +124,4 @@ A relação de relacionamentos pode ser:
 
 Para montarmos nosso banco de dados, vamos utilizar a ferramenta online [CloudClusters](https://clients.cloudclusters.io//ordering).
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

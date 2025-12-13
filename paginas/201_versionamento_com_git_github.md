@@ -46,4 +46,4 @@ Uma vez cadastrado e acessado, você pode personalizar seu perfil com nome, desc
 
 Segurança nunca é demais. Lembre-se de utilizar a Autenticação de Dois Fatores para aumentar a segurança do seu código.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

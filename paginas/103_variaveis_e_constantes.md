@@ -90,4 +90,4 @@ Caso seja necessário declarar a variável antes, podemos criar um valor inicial
 
 Nós usamos as boas práticas não só para deixar o código mais legível para os outros, mas para nós mesmos também. Imagine só você voltar em um código que escreveu semana passada, mês passado ou até antes. Você já vai ter esquecido da maior parte dele. Também é comum escrevermos códigos grandes, com várias variáveis para mantermos. Nomes bem feitos e declarativos nos facilitarão demais para utilizações posteriores
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

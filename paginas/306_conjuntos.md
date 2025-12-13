@@ -54,4 +54,4 @@ A classe set tem uma lista de métodos bem legais ligados aos conjuntos matemát
 
 O `set()` não garante a ordem que vai retornar os valores de uma lista que ele realize a limpeza das duplicatas. Se você precisa que a ordem se mantenha igual a anterior, ele não será o melhor tipo para ser utilizado.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

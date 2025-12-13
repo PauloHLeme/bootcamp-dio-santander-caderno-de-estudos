@@ -17,4 +17,4 @@ Tuplas são declaradas com parênteses, que são os mesmos símbolos para realiz
 
 > Por isso, é uma boa prática **adicionarmos uma vírgula após o último elemento da tuplo**, removendo assim a possibilidade de que o Python leia o código de forma errônea.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

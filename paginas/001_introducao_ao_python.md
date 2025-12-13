@@ -18,4 +18,4 @@ Além disso, a curva de aprendizado do Python é baixa, o que tem atraído cada 
 
 Desta forma, podemos utilizar o Python para praticamente qualquer tipo de aplicação. A sua maior limitação seria para *apps mobile*, onde encontramos alternativas que serão mais eficientes.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

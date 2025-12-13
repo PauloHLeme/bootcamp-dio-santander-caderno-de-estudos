@@ -56,4 +56,4 @@ Olhe [este exemplo.](/exercícios/dicionarios/dicionario_iteracao.py "Iterando d
 
 * `del dicionario[chave]`: remove uma informação do diciionário 
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

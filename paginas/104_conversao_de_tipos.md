@@ -91,4 +91,4 @@ print(idade)
 
 Nem sempre conseguiremos alterar todos os tipos de um para o outro. Um texto `"Olá"` nao vai poder ser alterado para um tipo `float` ou `int`, por exemplo, pois não é um número.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

@@ -33,4 +33,4 @@ Da mesma forma que o `dir`, o `help` pode ser utilizado de forma vazia, nos dand
 
 Para sairmos da documentação fornecida pela função `help()`, basta digitarmos `q`.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

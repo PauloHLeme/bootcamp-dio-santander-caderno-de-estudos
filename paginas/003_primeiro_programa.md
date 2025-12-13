@@ -25,4 +25,4 @@ Simples assim! Agora, no canto superior direito do VSCode temos uma *setinha* qu
 
 **Parabéns!** Já criamos nosso primeiro código em Python.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

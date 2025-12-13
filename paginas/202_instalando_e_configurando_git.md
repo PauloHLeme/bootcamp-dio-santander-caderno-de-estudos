@@ -108,4 +108,4 @@ Depois acessamos a opção _SSH and GPG keys_ e clicamos na _connecting to GitHu
 
 Uma vez na página, podemos ir até a sessão de "Gerar nova chave SSH" e seguirmos o passo a passo.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**

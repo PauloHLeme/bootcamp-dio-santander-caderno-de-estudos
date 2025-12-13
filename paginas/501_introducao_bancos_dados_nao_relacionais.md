@@ -52,4 +52,4 @@ Armazenar e consultar dados interconectados, onde os relacionamentos entre os da
 
 Estes são os mais utilizados, mas existem diversos outros modelos de padrões NoSQL.
 
-**[Voltar para o índice](README.md)**
+**[Voltar para o índice](/README.md)**
