@@ -91,6 +91,14 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   <summary><strong>Módulo 6: Bancos de dados Não Relacionais com MongoDB</strong></summary>
 
   - 🪑 [Introdução aos Bancos de Dados Não Relacionais](paginas/501_introducao_bancos_dados_nao_relacionais.md)
+  - 🆕 [Introdução ao MongoDB](paginas/502_introducao_mongodb.md)
+  - #️⃣ [Operações Essenciais com MongoDB](paginas/503_operacoes_mongodb.md)
+  - ®️ [Breve Introdução ao Redis](paginas/504_breve_introducao_redis.md)
+
+</details>
+
+
+  
 
 ---
 

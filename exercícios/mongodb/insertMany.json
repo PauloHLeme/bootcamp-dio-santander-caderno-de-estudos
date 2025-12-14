@@ -1,0 +1,15 @@
+[
+    {   
+        "nome": "Pamela",
+        "idade": 30,
+        "email": "pamela.apolinario.borges@gmail.com",
+        "endereco": "Av Manoel Marques de Jesus, 380 - Vila Xavier, Araraquara/SP"
+    },
+    {   
+        "nome": "Pamela",
+        "idade": 31,
+        "email": "pamela.apolinario.borges.outra@gmail.com",
+        "endereco": "Av Manoel Marques de Jesus, 380 - Vila Xavier, Araraquara/SP"
+    }
+
+]
