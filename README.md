@@ -97,6 +97,16 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 
 </details>
 
+<details>
+  <summary><strong>Módulo 7: Fundamentos de ETL com Python</strong></summary>
+  
+  - 📦 [Introdução ao ETL](/paginas/601_introducao_etl.md)
+  - 👟 [Etapas do ETL](paginas/602_etapas_etl.md)
+  - 🛠️ [Ferramentas para ETL](paginas/603_ferramentas_etl.md)
+  - 🐼 [Introdução ao Pandas](paginas/604_introducao_pandas.md)
+
+</details>
+
 
   
 
