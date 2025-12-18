@@ -104,11 +104,11 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   - 👟 [Etapas do ETL](paginas/602_etapas_etl.md)
   - 🛠️ [Ferramentas para ETL](paginas/603_ferramentas_etl.md)
   - 🐼 [Introdução ao Pandas](paginas/604_introducao_pandas.md)
+  - 📃 [Funções presentes no Pandas](/paginas/605_pandas_funcoes.md)
+  - 🤖 [Scikit-Learn](paginas/606_scikit_learn.md)
+  - 🪠 [Framework Luigi](paginas/607_luigi_etl.md)
 
 </details>
-
-
-  
 
 ---
 
