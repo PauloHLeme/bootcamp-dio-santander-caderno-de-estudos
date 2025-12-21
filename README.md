@@ -110,6 +110,15 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 
 </details>
 
+<details>
+  <summary><strong>Módulo 8: Análise de Dados com Excel e Copilot</strong></summary>
+
+  - 🎲 [Introdução ao Excel](/paginas/701_introducao_excel_365.md)
+  - 👨🏻‍✈️ [Trabalhando com o Copilot](/paginas/702_trabalhando_microsoft_copilot.md)
+  - 📃 [Escrevendo Consultas SQL com Copilot](/paginas/703_copilot_para_escrever_consultas_sql.md)
+  - 📊 [ETL com Excel e Power Query](/paginas/704_etl_excel_power_query.md)
+
+</details>
 ---
 
 ## ✨ Como Contribuir
