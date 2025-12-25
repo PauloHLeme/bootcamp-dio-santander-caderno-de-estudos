@@ -117,6 +117,9 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   - 👨🏻‍✈️ [Trabalhando com o Copilot](/paginas/702_trabalhando_microsoft_copilot.md)
   - 📃 [Escrevendo Consultas SQL com Copilot](/paginas/703_copilot_para_escrever_consultas_sql.md)
   - 📊 [ETL com Excel e Power Query](/paginas/704_etl_excel_power_query.md)
+  - 🔍 [Analisando Bases de dados com Excel e Copilot](/paginas/705_analisando_dados_excel_copilot.md)
+  - 📈 [Introdução a Dashboards](/paginas/706_introducao_dashboards.md)
+  - 🎮 [Criando um Dashboard de Vendas do Xbox com Excel](/paginas/707_dashboard_vendas_xbox_excel.md)
 
 </details>
 ---
