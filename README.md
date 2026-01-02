@@ -122,7 +122,15 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   - 🎮 [Criando um Dashboard de Vendas do Xbox com Excel](/paginas/707_dashboard_vendas_xbox_excel.md)
 
 </details>
----
+
+<details>
+  <summary><strong>Módulo 9: Noções de Computação em Nuvem</strong></summary>
+  
+  - ☁️ [Como a Computação em Nuvem Funciona](paginas/801_como_computacao_nuvem_funciona.md)
+  - 🌐 [Infraestrutura Global AWS](paginas/802_infraestrutura_global_aws.md)
+
+
+</details>
 
 ## ✨ Como Contribuir
 
