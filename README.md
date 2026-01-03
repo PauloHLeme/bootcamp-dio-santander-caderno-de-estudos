@@ -128,6 +128,7 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   
   - ☁️ [Como a Computação em Nuvem Funciona](paginas/801_como_computacao_nuvem_funciona.md)
   - 🌐 [Infraestrutura Global AWS](paginas/802_infraestrutura_global_aws.md)
+  - 🖥️ [Computação em AWS](paginas/803_computacao_aws.md)
 
 
 </details>
