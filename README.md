@@ -132,8 +132,12 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   - 🛜 [Redes em AWS](paginas/804_redes_aws.md)
   - 🎲 [Armazenamento e Banco de Dados em AWS](paginas/805_armazenamento_banco_dados_aws.md)
 
-
 </details>
+
+<details>
+<summary><strong>Módulo 10: Fundamentos e Técnicas de Machine Learning</strong></summary>
+
+ - 🤖 [Introdução ao Machine Learning](paginas/901_introducao_machine_learning.md)
 
 ## ✨ Como Contribuir
 
