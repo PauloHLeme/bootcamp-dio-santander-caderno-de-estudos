@@ -130,7 +130,7 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
   - 🌐 [Infraestrutura Global AWS](paginas/802_infraestrutura_global_aws.md)
   - 🖥️ [Computação em AWS](paginas/803_computacao_aws.md)
   - 🛜 [Redes em AWS](paginas/804_redes_aws.md)
-  - ⏳
+  - 🎲 [Armazenamento e Banco de Dados em AWS](paginas/805_armazenamento_banco_dados_aws.md)
 
 
 </details>
