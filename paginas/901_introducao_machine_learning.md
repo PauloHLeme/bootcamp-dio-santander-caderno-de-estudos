@@ -56,4 +56,24 @@ A IA é um produto com capacidades de gerar resultados com base em prompts de co
 
 Para o sistema ser considerado Inteligente, ele precisa ser capaz de generalizar as tarefas as quais ele foi treinado para reconhecer. Não basta ele saber reconhecer aquilo que ele foi treinado, mas sim casos semelhantes, mas com características gerais diferentes. Se ele só souber responder com exatidão aquilo que etava no seu treinamento ele "decorou" a resposta, não aprendeu a dar a resposta ao problema promposto.
 
+## Aprendizados de ML
+
+O modelo de aprendizado mais comum atualmente é o de Rede Neurais, que tentam replicar o funcionamento dos neurônios humanos.
+
+Neste modelo, temos estímulos através de valores que são enviados para diversos neurônios virtuais, que são responsáveis por mandar impulsos binários da mesma forma que o nosso cérebro envia impulsos elétricos através dos neurônios.
+
+Desta forma, os padrões de impulsos dos diversos neurônios são transformados em tomadas de decisões, e o sistema vai utilizando um sistema de recompensas, onde ele ganha ou perde pontos com base nos resultados mais ou menos acertivos.
+
+Isso gera um encorajamento para que os impulsos corretos sejam repetidos e aprendidos, o que converte a máquina para um sistema inteligente de tomada de decisões, sempre com base no modelo restrito para o qual ela foi treinada.
+
+## Bibliotecas de ML
+
+### Scikit Learn
+
+Para Python, temos a Scikit Learn, que é a biblioteca mais utilizada, e que inclusive já tem alguns modelos pré treinados, facilitando em muito nosso serviço com redes neurais.
+
+### Pandas
+
+É excelente para a Análise de Dados, que é essencial para validar os nossos sistemas de ML.
+
 [Voltar para o índice](/README.md)

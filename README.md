@@ -138,6 +138,15 @@ Decidi torná-lo público para que possa servir de inspiração e material de co
 <summary><strong>Módulo 10: Fundamentos e Técnicas de Machine Learning</strong></summary>
 
  - 🤖 [Introdução ao Machine Learning](paginas/901_introducao_machine_learning.md)
+ - 🐜 [Métodos de Machine Learning Bioinspirados](/paginas/902_metodos_machine_learning_bioinspirados.md)
+ - 🧠 [Redes Neurais Artificiais](paginas/903_redes_neurais_artificiais.md)
+ - 🧬 [Algoritmos Genéticos](paginas/904_algoritmos_geneticos.md)
+ - 📈 [Algoritmos Support Vector Machine](paginas/905_algoritmos_support_vector_machine.md)
+ - 📦 [Classificação de Problemas: Explorando Datasets](/paginas/906_classificacao_problemas_explorando_datasets.md)
+ - 🧑🏻‍💻 [Linguagens de Programação para Machine Learning](paginas/907_linguagens_programacao_machine_learning.md)
+
+</details>
+
 
 ## ✨ Como Contribuir
 
